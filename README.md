@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jdmor95@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/joaodaniel95](https://linkedin.com/in/joaodaniel95)
+- 📄 Know about my experiences **[linkedin.com/in/joaodaniel95](https://linkedin.com/in/joaodaniel95)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
