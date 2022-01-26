@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Daniel Ramos</h1>
+<h1 align="center">Hi 👋, I'm João Ramos</h1>
 <h3 align="center">On the hunt to master JS.</h3>
 
 - 🌱 I’m currently learning **Front End and Back End technologies.**
