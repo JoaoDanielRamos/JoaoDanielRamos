@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-end and Back-end technologies.**
 
-- 👨‍💻 Some of my projects are available at [joaoramos.com](joaoramos.com)
+- 👨‍💻 Some of my projects are available at [joaoramos.com](https://www.joaoramos.com)
 
 - 📫 How to reach me **jdmor95@gmail.com**
 
