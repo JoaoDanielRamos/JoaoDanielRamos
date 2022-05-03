@@ -1,3 +1,11 @@
+<h1>Hi 👋, I'm Joao Daniel Ramos</h1>
+<h3>On a journey to master TypeScript.</h3>
+
+- 🔭 I’m currently working on [House Marketplace](https://github.com/JoaoDanielRamos/house-marketplace)
+
+- 👨‍💻 Some of my projects are available at [joaoramos.com](joaoramos.com)
+
+- 💬 Ask me about **Full Stack Web Technologies**
 
 ### 🌐 Socials
 <a href="https://linkedin.com/in/joaodanielr" target="_blank">
