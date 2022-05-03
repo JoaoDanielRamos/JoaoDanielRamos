@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [House Marketplace](https://github.com/JoaoDanielRamos/house-marketplace)
 
-- 👨‍💻 Some of my projects are available at <a href="joaoramos.com" target="_blank"></a>
+- 👨‍💻 Some of my projects are available at my [portfolio](https://joaoramos.com)
 
 - 💬 Ask me about **Full Stack Web Technologies**
 
