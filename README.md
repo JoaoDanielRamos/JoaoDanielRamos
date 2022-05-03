@@ -7,10 +7,12 @@
 
 - 💬 Ask me about **Full Stack Web Technologies**
 
+
 ### 🌐 Socials
 <a href="https://linkedin.com/in/joaodanielr" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 
  ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
